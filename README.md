@@ -13,7 +13,7 @@
 
 <h2>I'm Rail Batyrshin</h2>
 
-- 🐹 JavaScript developer at <a href="https://maddevs.io/">Mad Devs</a>
+- 🐹 JavaScript developer at <a target="_blank" href="https://maddevs.io/">Mad Devs</a>
 
 ### :hammer_and_wrench: Skills and other tools that I know or have used
 
