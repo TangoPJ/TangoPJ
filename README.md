@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning many things <a href="https://www.freecodecamp.org/RailPJ">
     <img src="https://img.shields.io/badge/Freecodecamp-blue?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="Freecodecamp Badge"/>
   </a>&nbsp;<a href="https://www.udemy.com/user/rail-15/">
-    <img src="https://img.shields.io/badge/Udemy-red?style=for-the-badge&logo=udemy&logoColor=black" alt="Udemy Badge"/>
+    <img src="https://img.shields.io/badge/Udemy-red?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy Badge"/>
   </a>
 
 ### :hammer_and_wrench: Skills and other tools that I know or have used
