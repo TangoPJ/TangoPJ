@@ -8,12 +8,17 @@
   <a href="https://t.me/railbatyrshin">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-</div>
+  </div>
 </div>
 
 <h2>I'm Rail Batyrshin</h2>
 
 - 🐹 JavaScript developer at <a target="_blank" href="https://maddevs.io/">Mad Devs</a>
+- 🌱 I’m currently learning many things <a href="https://www.freecodecamp.org/RailPJ">
+    <img src="https://img.shields.io/badge/Freecodecamp-blue?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="Freecodecamp Badge"/>
+  </a>&nbsp;<a href="https://www.udemy.com/user/rail-15/">
+    <img src="https://img.shields.io/badge/Udemy-red?style=for-the-badge&logo=udemy&logoColor=black" alt="Udemy Badge"/>
+  </a>
 
 ### :hammer_and_wrench: Skills and other tools that I know or have used
 
