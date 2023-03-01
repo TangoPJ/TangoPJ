@@ -13,7 +13,7 @@
 
 <h2>I'm Rail Batyrshin</h2>
 
-- 🐹 Frontend developer at <a target="_blank" href="https://maddevs.io/">Mad Devs</a>
+- 🐹 Frontend developer at <a href="https://maddevs.io/">Mad Devs</a>
 - 🌱 I’m currently learning many things <a href="https://www.freecodecamp.org/RailPJ">
     <img src="https://img.shields.io/badge/Freecodecamp-blue?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="Freecodecamp Badge"/>
   </a>&nbsp;<a href="https://www.udemy.com/user/rail-15/">
