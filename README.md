@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Freecodecamp-blue?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="Freecodecamp Badge"/>
   </a>&nbsp;<a href="https://www.udemy.com/user/rail-15/">
     <img src="https://img.shields.io/badge/Udemy-red?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy Badge"/>
-  </a>. Also I'm interested in ML and Deep learning, I'm reading a book on this topic.
+  </a>.
 
 ### :hammer_and_wrench: Skills and other tools that I know or have used
 
